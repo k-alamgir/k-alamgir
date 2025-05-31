@@ -19,6 +19,7 @@ I have an academic background in economics and growing experience in applied res
 - Econometrics, Game Theory, Labor & Financial Economics, International Trade, Portfolio Management  
 - Calculus I & II, Linear Algebra, Discrete Mathematics, Differential Equations
 
+---
 ## 🧪 Research Experience
 
 ### **Energy Consumption and Human Development**  
@@ -37,7 +38,7 @@ I have an academic background in economics and growing experience in applied res
 - Machine Learning Applications in Time Series Forecasting
 ---
 
-%# 💼 Work Experience
+## 💼 Work Experience
 
 **Urmi Group, Dhaka**  
 *Intern — Merchandising Department* (June – Aug 2024)  
