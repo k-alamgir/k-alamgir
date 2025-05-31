@@ -37,7 +37,7 @@ I have an academic background in economics and growing experience in applied res
 - Machine Learning Applications in Time Series Forecasting
 ---
 
-# 💼 Work Experience
+%# 💼 Work Experience
 
 **Urmi Group, Dhaka**  
 *Intern — Merchandising Department* (June – Aug 2024)  
