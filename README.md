@@ -35,14 +35,7 @@ I have an academic background in economics and growing experience in applied res
 - Behavioral and Experimental Economics  
 - Policy Design: Gender, Health, and Digital Inclusion  
 - Machine Learning Applications in Time Series Forecasting
-
-## 🛠 Skills
-
-**Technical Tools:** STATA, R, MS Excel, LATEX, Figma  
-**Econometrics & Analytics:** Regression Models, Time Series Analysis, 2SLS  
-**Design & Documentation:** Canva, Adobe Illustrator, Academic Writing  
-**Soft Skills:** Cross-cultural Communication, Attention to Detail, Analytical Thinking  
-**Languages:** Bengali (Native), English (Proficient), Hindi & French (Conversational)
+---
 
 # 💼 Work Experience
 
