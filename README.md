@@ -6,7 +6,7 @@ I'm a graduate student with a strong foundation in **Applied Economics**, **Fina
 
 ## 🎓 Academic Background
 
-- 🎓 MSc in Applied Economics, BRAC University (Concentration: Financial Economics) – CGPA 3.59
+- 🎓 MSc in Applied Economics, BRAC University (Concentration: Financial Economics) 
 - 🎓 MSc in Apparel & Fashion Business Management, Asian University for Women – CGPA 3.58 
 - 🎓 BA in Economics (Minors in Finance and Mathematics), AUW – CGPA 3.93
 
