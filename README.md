@@ -52,6 +52,7 @@ I'm a graduate student with a strong foundation in **Applied Economics**, **Fina
 - 🔗 LinkedIn: [your-linkedin]  
 - 🌐 Portfolio Website: [if you have one]  
 
---->
 
 > _“Economics is everywhere, and understanding economics can help you make better decisions and lead a happier life.”_ – Tyler Cowen
+
+--->
