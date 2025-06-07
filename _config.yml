@@ -1,5 +1,6 @@
 title: K Alamgir
-logo: /assets/img/Image24.jpg
+logo: <img src="/assets/img/Image24.jpg " alt="" style="border-radius: 50%; width: 150px; height: 150px;">
+
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
