@@ -52,9 +52,13 @@ I have an academic background in economics and growing experience in applied res
 ## 🧠 Skills
 
 **Technical Tools:** Microsoft Office Suite, Google Workspace, Outlook, LaTeX, Figma, Discord, Adobe Illustrator, Tableau
+
 **Programming Languages:** R, STATA, Python (basic), EViews (basic)
+
 **Analytical Skills:** Econometrics, Time Series Modeling, Causal Inference, Data Cleaning & Preparation
+
 **Soft Skills:** Analytical Thinking, Attention to Detail, Cross-Cultural Communication, Self-Directed Learning
+
 **Languages:** Bengali (Native), English (Proficient), Hindi & French (Conversational)
 
 
