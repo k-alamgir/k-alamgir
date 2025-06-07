@@ -2,6 +2,7 @@
 
 I have an academic background in economics and growing experience in applied research. I’m eager to contribute to projects that use data to understand social and economic challenges. While I am still developing my technical skills, I’m motivated to support meaningful research in academic and policy settings.
 <!---I am particularly interested in development economics, behavioral science, and financial risk. I seek research opportunities where I can apply empirical tools to address complex policy questions. In the long term, I hope to contribute to impactful research in both academic and policy settings.--->
+---
 
 ## 🎓 Education
 
@@ -36,7 +37,7 @@ I have an academic background in economics and growing experience in applied res
 ## 💼 Work Experience
 
 **Urmi Group, Dhaka**  
-*Intern — Merchandising Department* (June 2024 – Aug 2024)  
+*Intern — Merchandising Department* (Jun 2024 – Aug 2024)  
 
 **Centre for Responsible Business (Remote, New Delhi)**  
 *Research Associate* (Jan 2024) 
@@ -45,7 +46,7 @@ I have an academic background in economics and growing experience in applied res
 *Academic Materials Designer (Part-time)* (Dec 2022 – Dec 2024)  
 
 **AUW Science Summer School, Chittagong**  
-*Teaching Assistant — Computer Coding Program* (Jul – Aug 2022)  
+*Teaching Assistant — Computer Coding Program* (Jul 2022 – Aug 2022)  
 
 ---
 
