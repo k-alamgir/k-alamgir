@@ -16,10 +16,10 @@ I have an academic background in economics and growing experience in applied res
 ---
 ## 🧪 Research Experience
 
-### **Energy Consumption and Human Development**  
+**Energy Consumption and Human Development**  
 *Master’s Thesis, BRAC University* (Summer 2023)  
 
-### **Gender Board Diversity and Financial Performance**  
+**Gender Board Diversity and Financial Performance**  
 *Working paper, BRAC University* (Spring 2025 - Present)
 
 ---
