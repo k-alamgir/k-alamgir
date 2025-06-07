@@ -1,6 +1,6 @@
 # 👋 Hi
 
-I have an academic background in economics and growing experience in applied research. I’m eager to contribute to projects that use data to understand social and economic challenges. While I am still developing my technical skills, I’m motivated to support meaningful research in academic and policy settings.
+Applied Economics graduate with a strong foundation in quantitative methods and empirical research, demonstrated through econometric analysis and ongoing academic writing. Skilled in STATA, R, and data visualization. Experienced in collaborative, remote research environments. 
 <!---I am particularly interested in development economics, behavioral science, and financial risk. I seek research opportunities where I can apply empirical tools to address complex policy questions. In the long term, I hope to contribute to impactful research in both academic and policy settings.--->
 
 ---
