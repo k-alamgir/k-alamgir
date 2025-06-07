@@ -6,7 +6,7 @@ I have an academic background in economics and growing experience in applied res
 ## 🎓 Education
 
 **BRAC University, Dhaka, Bangladesh**  
-*MSc in Applied Economics* (Class of 2025)  
+*Master of Science in Applied Economics* (Class of 2025)  
 **Concentration:** Financial Economics  
 
 **Asian University for Women, Chittagong, Bangladesh**  
