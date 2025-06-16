@@ -6,11 +6,11 @@ Applied Economics graduate with a strong foundation in quantitative methods and 
 ---
 ## Education
 
-**BRAC University, Dhaka, Bangladesh**  
+**BRAC University | Dhaka, Bangladesh**  
 *Master of Science in Applied Economics* (Class of 2025)  
 **Concentration:** Financial Economics  
 
-**Asian University for Women, Chittagong, Bangladesh**  
+**Asian University for Women | Chittagong, Bangladesh**  
 *Bachelor of Arts in Economics* (Class of 2023) — CGPA: 3.93 / 4.00  
 **Minors:** Mathematics & Finance  
 
