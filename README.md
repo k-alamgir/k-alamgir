@@ -4,7 +4,7 @@ Applied Economics graduate with a strong foundation in quantitative methods and 
 <!---I am particularly interested in development economics, behavioral science, and financial risk. I seek research opportunities where I can apply empirical tools to address complex policy questions. In the long term, I hope to contribute to impactful research in both academic and policy settings.--->
 
 ---
-## 🎓 Education
+## Education
 
 **BRAC University, Dhaka, Bangladesh**  
 *Master of Science in Applied Economics* (Class of 2025)  
@@ -15,7 +15,7 @@ Applied Economics graduate with a strong foundation in quantitative methods and 
 **Minors:** Mathematics & Finance  
 
 ---
-## 🧪 Research Experience
+## Research Experience
 
 **Energy Consumption and Human Development**  
 *Master’s Thesis, BRAC University* (Summer 2023)  
@@ -34,23 +34,23 @@ Applied Economics graduate with a strong foundation in quantitative methods and 
 - Machine Learning Applications in Time Series Forecasting
 --->
 
-## 💼 Work Experience
+## Work Experience
 
-**Urmi Group, Dhaka**  
+**Urmi Group | Dhaka, Bangladesh**  
 *Intern — Merchandising Department* (Jun 2024 – Aug 2024)  
 
-**Centre for Responsible Business (Remote, New Delhi)**  
+**Centre for Responsible Business | Remote, New Delhi**  
 *Research Associate* (Jan 2024) 
 
-**Dr. Myatt Academy of Learning (Remote, Canada)**  
+**Dr. Myatt Academy of Learning | Remote, Canada**  
 *Academic Materials Designer (Part-time)* (Dec 2022 – Dec 2024)  
 
-**AUW Science Summer School, Chittagong**  
+**AUW Science Summer School | Chittagong, Bangladesh**  
 *Teaching Assistant — Computer Coding Program* (Jul 2022 – Aug 2022)  
 
 ---
 
-## 🧠 Skills
+## Skills
 
 **Technical Tools:** Microsoft Office Suite, Google Workspace, Outlook, LaTeX, Figma, Discord, Adobe Illustrator, Tableau
 
