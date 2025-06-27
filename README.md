@@ -22,7 +22,8 @@ Applied Economics graduate with a strong foundation in quantitative methods and 
 _Manuscript in preparation for journal submission._
 <!---
 **Gender Board Diversity and Financial Performance**  
-*Working paper, BRAC University* (Spring 2025 - Present) --->
+*Working paper, BRAC University* (Spring 2025 - Present) 
+--->
 
 ---
 <!---
