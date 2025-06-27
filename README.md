@@ -19,9 +19,10 @@ Applied Economics graduate with a strong foundation in quantitative methods and 
 
 **Energy Consumption and Human Development**  
 *Master’s Thesis, BRAC University* (Summer 2023)  
-
+_Manuscript in preparation for journal submission._
+<!---
 **Gender Board Diversity and Financial Performance**  
-*Working paper, BRAC University* (Spring 2025 - Present)
+*Working paper, BRAC University* (Spring 2025 - Present) --->
 
 ---
 <!---
